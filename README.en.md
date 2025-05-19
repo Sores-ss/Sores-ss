@@ -5,7 +5,7 @@
 
 🎓 Student at [EPITECH Lille](https://www.epitech.eu/) (Class of 2029)  
 💻 Passionate about software development, cybersecurity, and video games  
-🎮 I stream occasionally:  
+🎮 I stream occasionally:
 [![Twitch](https://img.shields.io/badge/-Live-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/Soresss_)  
 🔎 Currently looking for a **4 to 6-month internship** between **July and December 2025**  
 📍 Based in Lille, France
