@@ -5,7 +5,7 @@
 
 🎓 Étudiant à [EPITECH Lille](https://www.epitech.eu/) (promo 2029)  
 💻 Passionné de développement logiciel, cybersécurité, et jeux vidéo  
-🎮 Je stream aussi quand j'ai le temps :  
+🎮 Je stream aussi quand j'ai le temps : 
 [![Twitch](https://img.shields.io/badge/-Live-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/Soresss_)  
 🔎 Actuellement à la recherche d’un **stage de 4 à 6 mois** entre **juillet et décembre 2025**  
 📍 Basé à Lille, France
