@@ -57,7 +57,7 @@
 
 ## 📫 Me contacter
 
-- 📧 eros.delianneleboucher@epitech.eu  
+- 📧 contact.eros13@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/erosdelianne/)
 
 ---
