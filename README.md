@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Eros Delianne Le Boucher
+# 👋 Salut, moi c'est Eros (Sores)
 
 🎓 Étudiant à [EPITECH Lille](https://www.epitech.eu/) (promo 2029)  
 💻 Passionné de développement logiciel, cybersécurité, et jeux vidéo  
