@@ -43,8 +43,7 @@
 ## 📊 Stats GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sores-ss&layout=compact&theme=midnight-purple)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=midnight-purple)](https://git.io/streak-stats)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sores-ss&theme=midnight-purple&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=midnight-purple)](https://git.io/streak-stats)
 
 ---
 
