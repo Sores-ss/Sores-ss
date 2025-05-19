@@ -1,4 +1,4 @@
-### 🌍 Language | Langue  
+### 🌍 Language  
 [🇬🇧 English](./README.en.md) • [🇫🇷 Français](./README.md)
 
 # 👋 Hi, I'm Eros (Sores)
