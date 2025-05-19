@@ -20,6 +20,7 @@
   - Recodage de commandes Unix  
   - Shell personnalisé  
   - Serveur web incluant une To-do list avec base de données
+  - Projet Burp (CTF) : Intrusion sur des rooms TryHackMe
 
 ---
 
