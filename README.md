@@ -1,11 +1,13 @@
-<h1 align="center">👋 Salut, moi c'est Eros Delianne Le Boucher</h1>
+# 👋 Salut, moi c'est Eros Delianne Le Boucher
 
-<p align="center">
-🎓 Étudiant à <a href="https://www.epitech.eu/">EPITECH Lille</a> (promo 2029)<br>
-💻 Passionné de développement logiciel, cybersécurité, et jeux vidéo<br>
-🔎 Actuellement à la recherche d’un <strong>stage de 4 à 6 mois</strong> entre <strong>juillet et décembre 2025</strong><br>
-📍 Basé à Lille, France  
-</p>
+🎓 Étudiant à [EPITECH Lille](https://www.epitech.eu/) (promo 2029)  
+💻 Passionné de développement logiciel, cybersécurité, et jeux vidéo  
+🎮 Je stream aussi quand j'ai le temps : 
+[![Twitch](https://img.shields.io/badge/-Live-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/Soresss_)  
+🔎 Actuellement à la recherche d’un **stage de 4 à 6 mois** entre **juillet et décembre 2025**  
+📍 Basé à Lille, France
+  
+
 
 ---
 
@@ -29,37 +31,26 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-000?&logo=c&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSFML-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-000?&logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white&style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/CSFML-00979D?style=for-the-badge&logo=sfml&logoColor=white" />
 
 ---
 
 ## 📊 Stats GitHub
 
-<div align="center">
-
-![Eros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sores-ss&show_icons=true&theme=tokyonight&count_private=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sores-ss&layout=compact&theme=tokyonight)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=tokyonight)](https://git.io/streak-stats)
-<br>
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sores-ss&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sores-ss&layout=compact&theme=midnight-purple)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=midnight-purple)](https://git.io/streak-stats)  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sores-ss&theme=midnight-purple&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📫 Me contacter
 
-- 📧 contact.eros13@gmail.com 
+- 📧 contact.eros13@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/erosdelianne/)
 
 ---
-
-
