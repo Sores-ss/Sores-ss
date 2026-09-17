@@ -1,58 +1,59 @@
-### 🌍 Language  
-[🇬🇧 English](./README.en.md) • [🇫🇷 Français](./README.md)
+<div align="center">
 
-# 👋 Hi, I'm Eros (Sores)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eros%20(Sores)&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Student%20in%20Computer%20Science%20%40%20EPITECH%20Lille&descAlignY=65&descSize=18)
 
-🎓 Student at [EPITECH Lille](https://www.epitech.eu/) (Class of 2029)  
-💻 Passionate about software development, cybersecurity, and video games  
-🎮 I stream occasionally:
-[![Twitch](https://img.shields.io/badge/-Live-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/Soresss_)  
-🔎 Currently looking for a **4 to 6-month internship** between **July and December 2025**  
-📍 Based in Lille, France
+### [English](./README.en.md) • [Français](./README.md)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Cybersecurity+%7C+Video+Games;Currently+looking+for+an+internship" alt="Typing SVG" />
 
----
+[![Twitch](https://img.shields.io/badge/Twitch-Soresss__-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Soresss_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-erosdelianne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erosdelianne/)
+[![Email](https://img.shields.io/badge/Email-contact.eros13-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.eros13@gmail.com)
 
-## 🚀 Main Skills
-
-- 🔧 Languages: `C`, `Python`, `CSFML`, `Bash`
-- 🌐 Tools: `Git`, `Linux`
-- 🛠️ Projects:
-  - 2D game development  
-  - Unix command rewrites  
-  - Custom shell  
-  - Web server with to-do list and database  
-  - Burp project (CTF): Penetration testing on TryHackMe rooms
-
----
-
-## 🕹️ Current Projects
-
-- 🎮 **Wolf3D**: A recreation of the classic *Wolfenstein 3D* game using **CSFML**
-
----
-
-## 💻 Tech Stack
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; justify-items: center; align-items: center;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/CSFML-00979D?style=for-the-badge&logo=sfml&logoColor=white" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### About me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sores-ss&layout=compact&theme=midnight-purple)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=midnight-purple)](https://git.io/streak-stats)
+- 3rd-year student at [EPITECH Lille](https://www.epitech.eu/) *(Class of 2029)*
+- Based in Lille, France
+- Looking for a **part-time internship** *(September → February)*, then a **full-time internship (4 to 6 months)** *(starting March)*
+- I stream occasionally on Twitch
 
 ---
 
-## 📫 Contact Me
+### Tech Stack
 
-- 📧 contact.eros13@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/erosdelianne/)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,unity,nodejs,docker,linux,git,github&theme=dark" />
+</div>
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Unity - Top-down game** | Top-down game built as part of an Epitech user group | `Unity` `C#` |
+| **Zappy** | GUI spectator client for a networked multiplayer game (TCP sockets, Strategy/Command patterns) | `C++` |
+| **Raytracer** | 3D rendering engine built with design patterns (Factory, Builder...) | `C++` |
+| **Arcade** | Modular gaming platform with dynamically loaded graphics libraries and games | `C++` |
+| **Corewar** | Virtual machine and champions fighting each other in memory (custom assembly) | `C` |
+| **Persona** | AI-generated personalized newsletter | `N8N` `Mistral AI` |
+| **Wolf3D** | A recreation of *Wolfenstein 3D* | `CSFML` |
+| **My_Hunter** | A recreation of *Duck Hunt* | `CSFML` |
+| **Survivor** | Platform connecting job seekers and recruiters through short videos | `Node.js` `PostgreSQL` `React` `TypeScript` `Docker` |
+| **Hack & Juice** | Web security challenges (OWASP Juice Shop) with write-ups | `Pentest` |
+| **Ecorp** | Binary exploitation (buffer overflow) | `C` `Python` `Pentest` |
+| **Codename** | AI attack/defense challenge: extracting a password via prompt injection | `Prompt Engineering` |
+
+---
+
+<div align="center">
+
+**Contact me**: contact.eros13@gmail.com
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
